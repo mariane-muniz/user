@@ -1,6 +1,6 @@
-# spring:
-#   application:
-#     name: delivery-user-server
-#   cloud:
-#     config:
-#       uri: http://localhost:9090
+spring:
+  application:
+    name: delivery-user-server
+  cloud:
+    config:
+      uri: https://lotus-store-config.herokuapp.com/
