@@ -12,6 +12,6 @@ public class UserController {
     @RequestMapping
     public String getUser() {
 
-        return "its works!";
+        return "its works! Heroku";
     }
 }
