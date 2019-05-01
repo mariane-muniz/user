@@ -4,7 +4,7 @@
 eureka:
   instance:
     hostname: lotus-eureka.herokuapp.com
-    port: 80
+    port: 443
   client:
     registerWithEureka: true
     fetchRegistry: true
